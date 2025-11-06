@@ -1,0 +1,15 @@
+computer
+periferiche
+perifericheOutput
+stampante
+monitor
+perifericheInput
+mouse
+tastiera
+schedaMadre
+ram
+cpu
+registri
+unitàControllo
+alu
+schedaVideo
